@@ -5,7 +5,7 @@ molpy
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molpy/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molpy/branch/master)
 
 A short description of the project.
-#A random comment
+A random comment
 ### Copyright
 
 Copyright (c) 2020, Acme
