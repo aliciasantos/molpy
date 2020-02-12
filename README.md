@@ -15,3 +15,6 @@ Copyright (c) 2020, Acme
 
 Project based on the
 [Computational Molecular Science Python Cookiecutter](https://github.com/molssi/cookiecutter-cms) version 1.1.
+
+##### Notes
+#Manifesto is not the communist one, do not forget
