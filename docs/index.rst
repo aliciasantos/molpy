@@ -6,12 +6,14 @@
 Welcome to molpy's documentation!
 =========================================================
 
-.. toctree::
+.. toctree:: #table of contents
    :maxdepth: 2
    :caption: Contents:
 
    getting_started
    api
+   another_page
+   external_links
 
 
 
